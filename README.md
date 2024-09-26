@@ -3,7 +3,7 @@
 - HTML,CSS,php,SQL and javaScript
 - Customizable
 
-## Demo
+## View
 ![logo](https://github.com/NarendraNathPanda/Online_Bus_Ticket_Booking_System/blob/master/Easy%20JouRNey.png)
 
 ## Feedback
